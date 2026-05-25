@@ -31,3 +31,4 @@
 /home/sergio-alencar/Scripts/RomanToInt/RomanNumeralAPI/obj/Debug/net8.0/RomanNumeralAPI.pdb
 /home/sergio-alencar/Scripts/RomanToInt/RomanNumeralAPI/obj/Debug/net8.0/RomanNumeralAPI.genruntimeconfig.cache
 /home/sergio-alencar/Scripts/RomanToInt/RomanNumeralAPI/obj/Debug/net8.0/ref/RomanNumeralAPI.dll
+/home/sergio-alencar/Scripts/RomanToInt/RomanNumeralAPI/obj/Debug/net8.0/RomanNumeralAPI.sourcelink.json

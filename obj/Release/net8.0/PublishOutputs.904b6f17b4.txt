@@ -1,0 +1,12 @@
+/home/sergio-alencar/Scripts/RomanToInt/RomanNumeralAPI/bin/Release/net8.0/publish/RomanNumeralAPI
+/home/sergio-alencar/Scripts/RomanToInt/RomanNumeralAPI/bin/Release/net8.0/publish/appsettings.Development.json
+/home/sergio-alencar/Scripts/RomanToInt/RomanNumeralAPI/bin/Release/net8.0/publish/appsettings.json
+/home/sergio-alencar/Scripts/RomanToInt/RomanNumeralAPI/bin/Release/net8.0/publish/RomanNumeralAPI.dll
+/home/sergio-alencar/Scripts/RomanToInt/RomanNumeralAPI/bin/Release/net8.0/publish/RomanNumeralAPI.deps.json
+/home/sergio-alencar/Scripts/RomanToInt/RomanNumeralAPI/bin/Release/net8.0/publish/RomanNumeralAPI.runtimeconfig.json
+/home/sergio-alencar/Scripts/RomanToInt/RomanNumeralAPI/bin/Release/net8.0/publish/RomanNumeralAPI.pdb
+/home/sergio-alencar/Scripts/RomanToInt/RomanNumeralAPI/bin/Release/net8.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/home/sergio-alencar/Scripts/RomanToInt/RomanNumeralAPI/bin/Release/net8.0/publish/Microsoft.OpenApi.dll
+/home/sergio-alencar/Scripts/RomanToInt/RomanNumeralAPI/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/sergio-alencar/Scripts/RomanToInt/RomanNumeralAPI/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/sergio-alencar/Scripts/RomanToInt/RomanNumeralAPI/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

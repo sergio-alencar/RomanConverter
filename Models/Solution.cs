@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Text;
 
 namespace RomanNumeralAPI.Models;
@@ -54,11 +55,17 @@ public class Solution
         return total;
     }
 
+    public string RomanToIntFormatted(string str)
+    {
+        int number = RomanToInt(str);
+        return number.ToString("N0", new CultureInfo("pt-BR"));
+    }
+
     public string IntToRoman(int num)
     {
         if (num < 1 || num > 3999)
         {
-            throw new ArgumentOutOfRangeException("Número deve estar entre 1 e 3999.");
+            throw new ArgumentOutOfRangeException("Número deve estar entre 1 e 3.999.");
         }
 
         var map = new List<(int value, string symbol)>
