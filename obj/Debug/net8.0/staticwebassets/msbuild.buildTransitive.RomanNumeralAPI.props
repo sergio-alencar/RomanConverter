@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/RomanNumeralAPI.props" />
+</Project>
