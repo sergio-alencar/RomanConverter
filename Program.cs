@@ -1,6 +1,3 @@
-using Microsoft.AspNetCore.Mvc;
-using RomanNumeralAPI.Models;
-
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddCors(options =>
